@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/PrimitivesAndObjects/src/|.git/workspace-spring-tool-suite-4-4.15.1.RELEASE/codingChallenges/src/|.git/workspace-spring-tool-suite-4-4.15.1.RELEASE/JDBCDemo/src/|.git/workspace-spring-tool-suite-4-4.15.1.RELEASE/PrimitivesAndObjects/|.git/workspace-spring-tool-suite-4-4.15.1.RELEASE/Lab-DataTypes/src/|.git/workspace-spring-tool-suite-4-4.15.1.RELEASE/Reimbursement/src/" kind="src" path=""/>
+	<classpathentry kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/codingChallenges/src"/>
+	<classpathentry kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/JDBCDemo/src"/>
+	<classpathentry kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/Lab-DataTypes/src"/>
+	<classpathentry excluding="src/" kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/PrimitivesAndObjects"/>
+	<classpathentry kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/PrimitivesAndObjects/src"/>
+	<classpathentry kind="src" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/Reimbursement/src"/>
+	<classpathentry kind="output" path=".git/workspace-spring-tool-suite-4-4.15.1.RELEASE/JDBCDemo/bin"/>
+</classpath>
